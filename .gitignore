@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Rest.ASPNET/Rest.ASPNET.API/obj
+/Rest.ASPNET/.vs
+/Rest.ASPNET/Rest.ASPNET.API/bin/Debug/net6.0
